@@ -53,9 +53,9 @@ The `protocols/` directory contains the authoritative protocol documents:
 
 ## TODO
 
-- [ ] Create `SKILL.md` following the v2 frontmatter protocol
-- [ ] Create `env.yaml` with required dependencies
-- [ ] Create `scripts/main.<ext>` as single entry point
-- [ ] Create `scripts/input_validation.<ext>` and `scripts/output_validation.<ext>`
-- [ ] Write tests
+- [x] Create `SKILL.md` following the v2 frontmatter protocol
+- [x] Create `env.yaml` with required dependencies
+- [x] Create `scripts/main.<ext>` as single entry point
+- [x] Create `scripts/input_validation.<ext>` and `scripts/output_validation.<ext>`
+- [x] Write tests
 - [ ] Register in core's `registry.yaml`
